@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\documents\\githubartcoursedemo\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\githubartcoursedemo\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\githubartcoursedemo\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "d:\\documents\\githubartcoursedemo\\myproject\\source\\myproject\\tp_weaponcomponent.h",
+            "d:\\documents\\githubartcoursedemo\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
